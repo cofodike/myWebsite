@@ -90,13 +90,19 @@ footer{
   clear: both;
   padding-top: 50px;
   color: #ccc;
+  width: 100%
+  background: blue;
 }
 
 .social-icon{
   width: 20px;
   height: 20px;
   margin: 0 5px;
-  
+  padding: 10px 0 0 10;
+}
+#foot{
+  width: 100%;
+  background: #f2f2f2;
 }
 
 /*************************
